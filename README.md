@@ -16,7 +16,7 @@
 
 <p>
 <strong> <em><a href="https://twitter.com/moebiusSurfing/" rel="nofollow">@moebiusSurfing</a>
-<br> ( ManuMolina ) 2019-2021</em>
+<br> ( ManuMolina ) 2021</em>
 </strong>
 </p>
 
