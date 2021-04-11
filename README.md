@@ -25,8 +25,6 @@ moebiusSurfing, 2021
 </strong>
 </p>
 
-<br/>
-
 <p>
 <a href="https://twitter.com/moebiusSurfing/" rel="nofollow">Twitter</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" rel="nofollow">YouTube</a> | 
