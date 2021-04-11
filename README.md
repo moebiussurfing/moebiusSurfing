@@ -1,8 +1,6 @@
-### Hi there 👋
+### Comming Soon...
 
-* Comming Soon...
-
-<div align="center">
+<div align="left">
 <!--
 <img src="./banner.gif">
 -->
@@ -12,15 +10,16 @@
 <br/>
 <br/>
 
-- 📫 How to reach me: 
- 
-<p><strong> <em>Coded by <a href="https://twitter.com/moebiusSurfing/" rel="nofollow">@moebiusSurfing</a>
+<p><br></p>
+
+<h1>📫 Contact / Follow</h1>
+
+<p>
+<strong> <em><a href="https://twitter.com/moebiusSurfing/" rel="nofollow">@moebiusSurfing</a>
 <br> ( ManuMolina ) 2019-2021</em>
 </strong><br>
-<a href="https://github.com/moebiussurfing/ofxColorManager/blob/b29c56f7b0e374b6a6fe2406e45fbfaaf2726112/LICENSE">MIT License</a>
 </p>
-<p><br></p>
-<h1>Contact / Follow</h1>
+
 <p>
 <a href="https://twitter.com/moebiusSurfing/" rel="nofollow">Twitter</a> | 
 <a href="https://www.instagram.com/moebiusSurfing/" rel="nofollow">Instagram</a> | 
