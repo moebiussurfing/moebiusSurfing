@@ -1,5 +1,7 @@
 ### Comming Soon...
 
+<br/>
+
 <div align="left">
 <!--
 <img src="./banner.gif">
@@ -10,15 +12,15 @@
 <br/>
 <br/>
 
-<p><br></p>
-
 <h1>📫 Contact / Follow</h1>
 
 <p>
 <strong> <em><a href="https://twitter.com/moebiusSurfing/" rel="nofollow">@moebiusSurfing</a>
 <br> ( ManuMolina ) 2019-2021</em>
-</strong><br>
+</strong>
 </p>
+
+<br/>
 
 <p>
 <a href="https://twitter.com/moebiusSurfing/" rel="nofollow">Twitter</a> | 
