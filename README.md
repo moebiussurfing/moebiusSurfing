@@ -15,8 +15,12 @@
 <h1>📫 Contact / Follow</h1>
 
 <p>
-<strong> <em><a href="https://twitter.com/moebiusSurfing/" rel="nofollow">@moebiusSurfing</a>
-<br> ( ManuMolina ) 2021</em>
+<strong> 
+<em>
+moebiusSurfing
+<br/>
+( ManuMolina ) 2021
+</em>
 </strong>
 </p>
 
