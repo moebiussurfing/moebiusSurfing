@@ -34,11 +34,11 @@ moebiusSurfing, 2021
 </p>
 
 <br/>
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social)
-https://img.shields.io/twitter/follow/moebiussurfing?style=social
-https://img.shields.io/github/followers/moebiussurfing?style=social
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing%2F
+https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social  
+https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social  
+https://img.shields.io/twitter/follow/moebiussurfing?style=social  
+https://img.shields.io/github/followers/moebiussurfing?style=social  
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing%2F  
 
 <!--
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
