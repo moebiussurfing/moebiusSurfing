@@ -33,6 +33,10 @@ moebiusSurfing, 2021
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>
 </p>
 
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/moebiussurfing?tab=followers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<!--
 ### TEST
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,6 +49,8 @@ moebiusSurfing, 2021
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+-->
+
 <!--
 **moebiussurfing/moebiusSurfing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
