@@ -31,18 +31,20 @@ moebiusSurfing, 2021
 <a href="https://www.instagram.com/moebiusSurfing/" rel="nofollow">Instagram</a> | 
 <a href="https://github.com/moebiussurfing" target="_blank">GitHub</a> | 
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>
-
 </p>
 
+<br/>
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social)
+https://img.shields.io/twitter/follow/moebiussurfing?style=social
+https://img.shields.io/github/followers/moebiussurfing?style=social
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing%2F
 
 <!--
-
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 [![GitHub followers](https://img.shields.io/github/followers/moebiussurfing.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/moebiussurfing?tab=followers)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 GitHub Repo stars badge	/github/stars/:user/:repo?style=social
-
-<br/>
-
 
 ### TEST
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
