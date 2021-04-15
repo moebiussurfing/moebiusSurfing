@@ -6,7 +6,7 @@
 <!--
 <img src="./banner.gif">
 -->
-<img src="https://github.com/moebiussurfing/ofxColorManager/blob/develop/docs/itch.io/Paletto_Thumbnail.png">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png">
 </div>
 
 <br/>
