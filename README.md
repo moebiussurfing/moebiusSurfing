@@ -33,8 +33,8 @@ moebiusSurfing, 2021
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/moebiussurfing?tab=followers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub followers](https://img.shields.io/github/followers/moebiussurfing.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/moebiussurfing?tab=followers)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 <!--
 ### TEST
