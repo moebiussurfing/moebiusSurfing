@@ -32,15 +32,14 @@ moebiusSurfing, 2021
 <a href="https://github.com/moebiussurfing" target="_blank">GitHub</a> | 
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>
 </p>
-
 <br/>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/moebiussurfing?style=social">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/moebiussurfing?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moebiussurfing?style=social">  
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing">  
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social">  
-<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social">  
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moebiussurfing?style=social">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social">
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social">
 
 
 
