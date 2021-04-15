@@ -34,6 +34,7 @@ moebiusSurfing, 2021
 </p>
 
 <br/>
+https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social
 https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social  
 https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social  
 https://img.shields.io/twitter/follow/moebiussurfing?style=social  
