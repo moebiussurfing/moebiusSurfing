@@ -31,9 +31,11 @@ moebiusSurfing, 2021
 <a href="https://www.instagram.com/moebiusSurfing/" rel="nofollow">Instagram</a> | 
 <a href="https://github.com/moebiussurfing" target="_blank">GitHub</a> | 
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>
+
 </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/moebiussurfing/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/moebiussurfing/StrapDown.js/stargazers/)  
+
+<!--
 
 [![GitHub followers](https://img.shields.io/github/followers/moebiussurfing.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/moebiussurfing?tab=followers)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
@@ -41,7 +43,7 @@ GitHub Repo stars badge	/github/stars/:user/:repo?style=social
 
 <br/>
 
-<!--
+
 ### TEST
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
