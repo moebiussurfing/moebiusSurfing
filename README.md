@@ -41,6 +41,8 @@ https://img.shields.io/twitter/follow/moebiussurfing?style=social
 https://img.shields.io/github/followers/moebiussurfing?style=social  
 https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing%2F  
 
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social">
+
 <!--
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 [![GitHub followers](https://img.shields.io/github/followers/moebiussurfing.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/moebiussurfing?tab=followers)  
