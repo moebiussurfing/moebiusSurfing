@@ -34,9 +34,17 @@ moebiusSurfing, 2021
 </p>
 
 <br/>
-.. image:: https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social   :alt: YouTube Channel Subscribers  
-https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social  
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/moebiussurfing?style=social">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/moebiussurfing?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/moebiussurfing?style=social">  
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmoebiussurfing">  
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCzUw96_wjmNxyIoFXf84hQg?style=social">  
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCzUw96_wjmNxyIoFXf84hQg?style=social">  
+
+
+
+
 
 <!--
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
