@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<h1>📫 Contact / Follow</h1>
+<h1>📫 Contact / Tune</h1>
 
 <p>
 <strong> 
