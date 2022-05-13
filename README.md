@@ -26,10 +26,10 @@ moebiusSurfing, 2022
 </p>
 
 <p>
+<a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a> | 
 <a href="https://twitter.com/moebiusSurfing/" rel="nofollow">Twitter</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" rel="nofollow">YouTube</a> | 
-<a href="https://www.instagram.com/moebiusSurfing/" rel="nofollow">Instagram</a> | 
-<a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>
+<a href="https://www.instagram.com/moebiusSurfing/" rel="nofollow">Instagram</a>
 </p>
 <br/>
 
