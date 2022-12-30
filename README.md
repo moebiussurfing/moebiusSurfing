@@ -1,4 +1,4 @@
-<h1>🔭 ( WIP ) Comming Soon...</h1>
+<h1>🔭 ( WIP ) Coming Soon...</h1>
 
 <br/>
 
