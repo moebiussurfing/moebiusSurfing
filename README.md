@@ -10,6 +10,9 @@
 </div>
 
 <br/>
+
+<a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a>
+
 <br/>
 
 <h1>📫 Contact / Tune</h1>
@@ -27,9 +30,9 @@ moebiusSurfing, 2022
 
 <p>
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a> | 
-<a href="https://twitter.com/moebiusSurfing/" rel="nofollow">Twitter</a> | 
-<a href="https://www.youtube.com/moebiusSurfing" rel="nofollow">YouTube</a> | 
-<a href="https://www.instagram.com/moebiusSurfing/" rel="nofollow">Instagram</a>
+<a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
+<a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
+<a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a>
 </p>
 <br/>
 
