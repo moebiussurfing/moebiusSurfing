@@ -6,7 +6,7 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
 
-<br/>
+<br/><br/>
 
 <h2>Projects / Installers / Binaries</h2>
 
