@@ -10,8 +10,8 @@
 
 <h2>Installers / Binaries (Win64)</h2>
 
-<h4>My profile @ itch.io:</h4>
 <p>
+<h4>My profile @ itch.io:</h4>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
