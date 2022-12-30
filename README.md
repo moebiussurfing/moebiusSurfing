@@ -10,11 +10,11 @@
 
 <h2>Installers / Binaries (Win64)</h2>
 
-<p>My profile @ itch.io:<br/>
+<p><h4>My profile @ itch.io:</h4><br/>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a></p>
 
 <p>
-Win64 ( WIP ) apps:<br/> 
+<h4>Win64 ( WIP ) apps:</h4><br/> 
 <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/> 
 <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a><br/> 
 <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a><br/> 
