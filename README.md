@@ -13,9 +13,10 @@
 <p>My Profile @ itch.io: <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a></p>
 <br/>
 
-Win64 app: <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/>
-Win64 app: <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a><br/>
-Win64 app: <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a><br/>
+Win64 Apps:<br/> 
+<a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a>
+<a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a>
+<a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a>
  
 <br/>
 
