@@ -6,7 +6,11 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
 
-![](https://github.com/moebiussurfing/ofxSurfingVideoSkip/blob/5811fb4afee91efd8ae9bdb6c0041f299c16168d/examples/3_video-App/bin/data/assets/images/skipSURF_Cover.png)
+<br/>
+
+<div align="left">
+<img src="https://github.com/moebiussurfing/ofxSurfingVideoSkip/blob/5811fb4afee91efd8ae9bdb6c0041f299c16168d/examples/3_video-App/bin/data/assets/images/skipSURF_Cover.png" align="center" height="40%" width="40%">
+</div>
 
 <br/>
 
