@@ -8,14 +8,14 @@
 
 <br/>
 
-<p>
 <h2>Installers / Binaries (Win64)</h2>
-<a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
-</p>
 
-<p><a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a></p>
-<p><a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a></p>
-<p><a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a></p>
+<p>ITCH.IO Profile: <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a></p>
+<br/>
+
+Win64 App: <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/>
+Win64 App: <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a><br/>
+Win64 App: <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a><br/>
  
 <br/>
 
