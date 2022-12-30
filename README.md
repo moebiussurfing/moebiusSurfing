@@ -1,4 +1,4 @@
-<h1>🔭 Comming Soon...</h1>
+<h1>🔭 ( WIP ) Comming Soon...</h1>
 
 <br/>
 
@@ -8,15 +8,15 @@
 
 <br/>
 
-<h2>Projects / Installers / Binaries (Win64)</h2>
+<h2>Projects / Installers / Binaries</h2>
 
-<h4>My profile @ itch.io:</h4>
+<h3>My profile @ itch.io:</h3>
 
 <p>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
-<h4>Win64 ( WIP ) apps:</h4>
+<h3>Win64 ( WIP ) apps:</h3>
 
 <p>
 <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/> 
