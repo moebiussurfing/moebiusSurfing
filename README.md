@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<h2>Projects / Installers / Binaries</h2>
+<h2>Projects / Binaries</h2>
 
 <h3>My profile @ itch.io:</h3>
 
