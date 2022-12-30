@@ -10,7 +10,8 @@
 
 <h2>Installers / Binaries (Win64)</h2>
 
-<p>My Profile @ itch.io: <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a></p>
+<p>My Profile @ itch.io:<br/>
+<a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a></p>
 
 <p>
 Win64 Apps:<br/> 
