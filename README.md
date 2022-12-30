@@ -12,8 +12,8 @@
 <br/>
 
 <p>
-<h2> Installers / Binaries</h2>
-<a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a>
+<h2> Installers / Binaries (WINx64)</h2>
+<a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
   
 <br/>
