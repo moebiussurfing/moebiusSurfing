@@ -12,7 +12,11 @@
 <h2>Installers / Binaries (Win64)</h2>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
-  
+
+<p><a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a></p>
+<p><a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a></p>
+<p><a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a></p>
+ 
 <br/>
 
 <h1>📫 Contact / Tune</h1>
