@@ -8,12 +8,6 @@
 
 <br/>
 
-<div align="left">
-<img src="https://github.com/moebiussurfing/ofxSurfingVideoSkip/blob/5811fb4afee91efd8ae9bdb6c0041f299c16168d/examples/3_video-App/bin/data/assets/images/skipSURF_Cover.png" align="center" height="40%" width="40%">
-</div>
-
-<br/>
-
 <p>
 <h2>Installers / Binaries (Win64)</h2>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
