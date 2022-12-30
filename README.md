@@ -8,14 +8,16 @@
 
 <br/>
 
-<h2>Installers / Binaries (Win64)</h2>
+<h2>Projects / Installers / Binaries (Win64)</h2>
+
+<h4>My profile @ itch.io:</h4>
 
 <p>
-<h4>My profile @ itch.io:</h4>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
 <h4>Win64 ( WIP ) apps:</h4>
+
 <p>
 <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/> 
 <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a><br/> 
