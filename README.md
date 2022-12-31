@@ -19,17 +19,19 @@
 <h3>( WIP ) Win64 (beta) apps:</h3>
 
 <p>
+  
   * <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a>
-: COLOR MANAGER FOR CREATIVE CODERS<br/>
+: <br/>COLOR MANAGER FOR CREATIVE CODERS<br/>
 Toolkit to explore and create palettes. Colorize your scenes!<br/>
 
   * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a>
-: REAL TIME MASHUP VIDEO ENGINE<br/> 
+: <br/>REAL TIME MASHUP VIDEO ENGINE<br/> 
 Automated IN-SYNC reactive video for Live Music.<br/>
 
   * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a>
-: REAL TIME AUDIO ANALYZER<br/> 
+: <br/>REAL TIME AUDIO ANALYZER<br/> 
 Beat Extract, sense and Bang triggers: MUSIC to OSC</br>
+
 </p>
 
 <br/>
