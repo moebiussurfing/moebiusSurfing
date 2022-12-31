@@ -16,7 +16,7 @@
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
-<h3>( WIP ) Win64 apps:</h3>
+<h3>( WIP ) Win64 apps. Download links:</h3>
 
 <p>
   
