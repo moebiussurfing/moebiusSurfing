@@ -10,13 +10,13 @@
 
 <h2>Projects / Binaries</h2>
 
-<h3>My profile @ itch.io:</h3>
+<h3>My <b>itch.io</b> profile:</h3>
 
 <p>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
-<h3>Win64 ( WIP ) apps:</h3>
+<h3>( WIP ) Win64 apps:</h3>
 
 <p>
 <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/> 
