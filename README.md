@@ -20,17 +20,20 @@
 
 <p>
   
-  * <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0b [ beta ]</a>:
+  * <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0b</a>
   <br/>COLOR MANAGER FOR CREATIVE CODERS<br/>
 Toolkit to explore and create palettes. Colorize your scenes!<br/>
+[ beta ]</br>
 
-  * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF [ beta ]</a>:
+  * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a>
   <br/>REAL TIME MASHUP VIDEO ENGINE<br/> 
 Automated IN-SYNC reactive video for Live Music.<br/>
+[ beta ]</br>
 
-  * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF [ beta ]</a>:
+  * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a>
   <br/>REAL TIME AUDIO ANALYZER<br/> 
 Beat Extract, sense and Bang triggers: MUSIC to OSC</br>
+[ beta ]</br>
 
 </p>
 
