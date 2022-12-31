@@ -16,12 +16,12 @@
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
-<h3>( WIP ) Win64 apps:</h3>
+<h3>( WIP ) Win64 (beta) apps:</h3>
 
 <p>
-<a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/> 
-<a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a><br/> 
-<a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a><br/> 
+- <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto 1.0</a><br/> 
+- <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a><br/> 
+- <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a><br/> 
 </p>
 
 <br/>
