@@ -22,15 +22,15 @@
   
   * <a href="https://moebiussurfing.itch.io/paletto" target="_blank">Paletto</a> <br/>[ <i>BETA</i> ]
   <br/><b>COLOR MANAGER FOR CREATIVE CODERS</b><br/>
-Toolkit to explore and create palettes. Colorize your scenes!<br/>
+<i>Toolkit to explore and create palettes. Colorize your scenes!</i><br/>
 
   * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a> <br/>[ <i>BETA</i> ]
   <br/><b>REAL TIME MASHUP VIDEO ENGINE</b><br/> 
-Automated IN-SYNC reactive video for Live Music.<br/>
+<i>Automated IN-SYNC reactive video for Live Music</i><br/>
 
   * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a> <br/>[ <i>BETA</i> ]
   <br/><b>REAL TIME AUDIO ANALYZER</b><br/> 
-Beat Extract, sense and Bang triggers: MUSIC to OSC</br>
+<i>Beat Extract, sense and Bang triggers: MUSIC to OSC</i></br>
 
 </p>
 
