@@ -18,7 +18,7 @@ Telecom. Tech. Engineer UPC, specialized in audio DSP, 2000  |  Sound Engineer a
 <br/>
 <br/>
 
-<h1>🔭 ( WIP ) Coming Soon...</h1>
+<h1>🔭 ( WIP ) COMING SOON...</h1>
 
 <br/>
 
@@ -28,7 +28,7 @@ Telecom. Tech. Engineer UPC, specialized in audio DSP, 2000  |  Sound Engineer a
 
 <br/><br/>
 
-<h2>Projects / Binaries</h2>
+<h2>PROJECTS / BINARIES</h2>
 
 <p>
 <h3>
@@ -63,7 +63,7 @@ DOWNLOAD LINKS:
 
 <br/>
 
-<h1>📫 Contact / Tune</h1>
+<h1>📫 CONTACT / TUNE</h1>
 
 <p>
 <strong> 
