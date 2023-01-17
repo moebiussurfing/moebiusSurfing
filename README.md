@@ -1,7 +1,7 @@
 <br/><br/>
 
 <h2>SKILLS</h2>
-Creative Code Tools  |  Desktop Apps  |  C++  |  openFrameworks  |  DearImGui  |  UI  |  Arudino  |  Electronics
+Creative Code Tools · Desktop Apps · C++ · openFrameworks · DearImGui · UI · Arudino · Electronics
  
 <br/>
 <br/>
@@ -10,7 +10,7 @@ Creative Code Tools  |  Desktop Apps  |  C++  |  openFrameworks  |  DearImGui  |
 
 <b>PAST</b>
 </br>
-Tech. Telecom Engineer, UPC. Electronics - Audio DSP spec., 2000  |  Sound Engineer and Music Producer, 2001/2009  |  Live Streamer since 2004  |  Live Stream enhanced music shows, 2008  |  Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
+Tech. Telecom Engineer, UPC. Electronics - Audio DSP spec., 2000 · Sound Engineer and Music Producer, 2001/2009 · Live Streamer since 2004 · Live Stream enhanced music shows, 2008 · Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
 
 <br/>
 <br/>
