@@ -1,5 +1,5 @@
 <h2>SKILLS</h2>
-Creative Code Tools / Desktop Apps / C++ / openFrameworks / DearImGui / UI / Arudino / Electronics
+Creative Code Tools | Desktop Apps | C++ | openFrameworks | DearImGui | UI | Arudino | Electronics
 
 <br/>
 <br/>
@@ -81,21 +81,21 @@ moebiusSurfing, 2022
 <h2>What will you see in each social link?</h2>
 
 **GitHub**: 
-<i>My libraries/modules currently under development. Mainly openFrameworks.<i/>
+My libraries/modules currently under development. Mainly openFrameworks.
 
 **Itch.io**: 
-<i>Binaries of my desktop apps for Windows under development. Ready to download and install.<i/>
+Binaries of my desktop apps for Windows under development. Ready to download and install.
 
 **YouTube**: 
-<i>Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff.<i/>
+Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff.
 
 **Twitter**: 
-<i>Tweets of my released apps/tools and feed from some creative coders and developers that I follow.<i/>
+Tweets of my released apps/tools and feed from some creative coders and developers that I follow.
 
 **Instagram**: 
-<i>Weekly/monthly showcase of currently developing tools.<i/>
+Weekly/monthly showcase of currently developing tools.
 
 **LinkTree**: 
-<i>All my profiles links.<i/>
+All my profiles links.
 
 <br/>
