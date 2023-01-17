@@ -41,8 +41,9 @@ Download links:
 </p>
 
 <p>
-<h3>My <b>itch.io</b> profile:</h3>
+<h3>My <b>itch.io</b> profile:<br/>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
+</h3>
 </p>
 
 <p>
