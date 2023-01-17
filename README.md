@@ -17,7 +17,6 @@ Telecom. Tech. Enginner UPC, specialized in audio DSP, 2000  |  Sound Enginner a
 <br/>
 <br/>
 <br/>
-<br/>
 
 <h1>🔭 ( WIP ) Coming Soon...</h1>
 
