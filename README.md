@@ -1,6 +1,6 @@
 <br/><br/>
 
-<h2>SKILLS</h2>
+<h2>CURRENTLY WORKING / SKILLS</h2>
 Creative Code Tools · Desktop Apps · C++ · openFrameworks · DearImGui · UI · Arudino · Electronics
  
 <br/>
@@ -43,7 +43,7 @@ DOWNLOAD LINKS:
 </p>
 
 <p>
-<h3>From my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> Profile:<br/>
+<h3>From my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> profile:<br/>
 
 </h3>
 </p>
