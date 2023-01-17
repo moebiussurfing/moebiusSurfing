@@ -32,11 +32,10 @@ Telecom. Tech. Engineer UPC, specialized in audio DSP, 2000  |  Sound Engineer a
 
 <p>
 <h3>
-( WIP )<br/> 
 PROTOTYPE APPS<br/>
 UNDER DEVELOPMENT<br/> 
 Win64 Apps. Ready to use.<br/><br/>
-Download links:
+DOWNLOAD LINKS:
 </h3>
 </p>
 
