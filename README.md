@@ -2,7 +2,7 @@
 Creative Code Tools / Desktop Apps / C++ / openFrameworks / DearImGui / UI / Arudino / Electronics
 
 <h3>PAST</h3>
-Telecom. Tech. Enginner UPC, Specialized in audio DSP, 2000 / Sound Enginner and Music Producer, 2002 / Live Streamer from 2004 / Live Stream enhanced music shows, 2008 / Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
+Telecom. Tech. Enginner UPC, specialized in audio DSP, 2000 / Sound Enginner and Music Producer, 2002 / Live Streamer from 2004 / Live Stream enhanced music shows, 2008 / Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
 
 <br/>
 <br/>
@@ -72,8 +72,10 @@ moebiusSurfing, 2022
 
 <br/>
 
+<h3>What will you see in each link?</h3>
+
 **GitHub**:  
-My libraries/modules currently under development.
+My libraries/modules currently under development. Mainly openFrameworks.
 
 **Itch.io**:  
 Binaries of my desktop apps for Windows under development. Ready to download and install.
