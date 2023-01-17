@@ -2,11 +2,13 @@
 Creative Code Tools / Desktop Apps / C++ / openFrameworks / DearImGui / UI / Arudino / Electronics
 
 <h3>PAST</h3>
-Telecom. Tech. Enginner UPC, 2000 / Specialized in DSP audio signal processing / Sound Enginner and Music Producer, 2002 / Live Streamer from 2004 / Live Stream enhanced music shows, 2008 / Mixed Reality music Events in Second Life, 2007/2010.
+Telecom. Tech. Enginner UPC, Specialized in audio DSP, 2000 / Sound Enginner and Music Producer, 2002 / Live Streamer from 2004 / Live Stream enhanced music shows, 2008 / Mixed Reality music Events in Second Life, 2007/2010.
 
 <br/>
 
-<hl/>
+---
+
+<br/>
 
 <h1>🔭 ( WIP ) Coming Soon...</h1>
 
