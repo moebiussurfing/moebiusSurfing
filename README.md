@@ -31,15 +31,17 @@ Telecom. Tech. Enginner UPC, specialized in audio DSP, 2000  |  Sound Enginner a
 <h2>Projects / Binaries</h2>
 
 <p>
+<h3>
 ( WIP )<br/> 
-<h3>PROTOTYPE APPS UNDER DEVELOPMENT<br/> 
-Win64 Apps. Ready to use.<br/>  
-Download links:</h3>
+PROTOTYPE APPS<br/>
+UNDER DEVELOPMENT<br/> 
+Win64 Apps. Ready to use.<br/><br/>
+Download links:
+</h3>
 </p>
 
-<h3>My <b>itch.io</b> profile:</h3>
-
 <p>
+<h3>My <b>itch.io</b> profile:</h3>
 <a href="https://moebiussurfing.itch.io/" target="_blank">moebiusSurfing.itch.io</a>
 </p>
 
