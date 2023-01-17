@@ -1,8 +1,8 @@
 <br/><br/>
 
 <h2>SKILLS</h2>
-Creative Code Tools | Desktop Apps | C++ | openFrameworks | DearImGui | UI | Arudino | Electronics
-
+Creative Code Tools  |  Desktop Apps  |  C++  |  openFrameworks  |  DearImGui  |  UI  |  Arudino  |  Electronics
+ 
 <br/>
 <br/>
 <br/>
@@ -10,7 +10,7 @@ Creative Code Tools | Desktop Apps | C++ | openFrameworks | DearImGui | UI | Aru
 
 <b>PAST</b>:
 </br>
-Telecom. Tech. Enginner UPC, specialized in audio DSP, 2000 | Sound Enginner and Music Producer, 2002 | Live Streamer sine 2004 | Live Stream enhanced music shows, 2008 | Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
+Telecom. Tech. Enginner UPC, specialized in audio DSP, 2000  |  Sound Enginner and Music Producer, 2002  |  Live Streamer sine 2004  |  Live Stream enhanced music shows, 2008  |  Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
 
 <br/>
 <br/>
@@ -82,7 +82,7 @@ moebiusSurfing, 2022
 
 <h2>What will you see in each social link?</h2>
 
-GitHub: My libraries/modules currently under development. Mainly openFrameworks.  
+**GitHub**: My libraries/modules currently under development. Mainly openFrameworks.  
 Itch.io: Binaries of my desktop apps for Windows under development. Ready to download and install.  
 YouTube: Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff.  
 Twitter: Tweets of my released apps/tools and feed from some creative coders and developers that I follow.  
