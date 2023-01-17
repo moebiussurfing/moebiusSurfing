@@ -80,22 +80,22 @@ moebiusSurfing, 2022
 
 <h2>What will you see in each social link?</h2>
 
-**GitHub**:  
+**GitHub**: 
 <i>My libraries/modules currently under development. Mainly openFrameworks.<i/>
 
-**Itch.io**:  
+**Itch.io**: 
 <i>Binaries of my desktop apps for Windows under development. Ready to download and install.<i/>
 
-**YouTube**:  
+**YouTube**: 
 <i>Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff.<i/>
 
-**Twitter**:  
+**Twitter**: 
 <i>Tweets of my released apps/tools and feed from some creative coders and developers that I follow.<i/>
 
-**Instagram**:  
+**Instagram**: 
 <i>Weekly/monthly showcase of currently developing tools.<i/>
 
-**LinkTree**:  
+**LinkTree**: 
 <i>All my profiles links.<i/>
 
 <br/>
