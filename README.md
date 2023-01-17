@@ -1,3 +1,12 @@
+<h2>SKILLS</h2>
+Creative Code Tools / Desktop Apps / C++ / openFrameworks / DearImGui / UI / Arudino / Electronics
+
+<h3>PAST</h3>
+Telecom. Tech. Enginner UPC. Specialized in DSP audio signal processing / Sound Enginner and Music Producer, 2002 / Live Streamer from 2004 / Live Stream enhanced music shows, 2008 / Mixed Reality music Events in Second Life, 2007/2010.
+
+<br/>
+
+
 <h1>🔭 ( WIP ) Coming Soon...</h1>
 
 <br/>
@@ -53,7 +62,28 @@ moebiusSurfing, 2022
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a> | 
 <a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
-<a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a>
+<a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a>| 
+<a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 </p>
+
+<br/>
+
+**GitHub**:  
+My libraries/modules currently under development.
+
+**Itch.io**:  
+Binaries of my desktop apps for Windows under development. Ready to download and install.
+
+**YouTube**:  
+Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff.
+
+**Twitter**:  
+Tweets of my released apps/tools and feed from some creative coders and developers that I follow.
+
+**Instagram**:  
+Weekly/monthly showcase of currently developing tools.
+
+**LinkTree**:  
+All my profiles links.
 
 <br/>
