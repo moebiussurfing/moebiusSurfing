@@ -8,9 +8,9 @@ Creative Code Tools · Desktop Apps · C++ · openFrameworks · DearImGui · UI 
 <br/>
 
 
-<b>PAST</b>
+<b>PAST < 2010</b>
 </br>
-Tech. Telecom Engineer, UPC. Electronics - Audio DSP spec., 2000 · Sound Engineer and Music Producer, 2001/2009 · Live Streamer since 2004 · Live Stream enhanced music shows, 2008 · Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
+Tech. Telecom Engineer, UPC. Electronics, Audio DSP spec, 2000 · Sound Engineer and Music Producer, 2001/2009 · Live Streamer since 2004 · Live Stream enhanced music shows, 2008 · Mixed Reality music Events in Second Life Metaverse + Machinima film making, 2007/2010.
 
 <br/>
 <br/>
@@ -28,12 +28,15 @@ Tech. Telecom Engineer, UPC. Electronics - Audio DSP spec., 2000 · Sound Engine
 
 <br/><br/>
 
-<h2>PROJECTS / BINARIES</h2>
+<p>
+<h2>
+PROJECTS / PROTOTYPE APPS<br/>
+UNDER DEVELOPMENT<br/> 
+</h2>
+</p>
 
 <p>
 <h3>
-PROTOTYPE APPS<br/>
-UNDER DEVELOPMENT<br/> 
 Win64 Apps. Ready to use.<br/><br/>
 DOWNLOAD LINKS:
 </h3>
@@ -86,8 +89,9 @@ moebiusSurfing, 2022
 
 <br/>
 
-<h3>What will you see in each social link?</h3>
-
+<details>
+<summary>What will you see in each social link?</summary>
+<br>
 **GitHub**: _My libraries/modules currently under development. Mainly openFrameworks._<br/>
 
 **Itch.io**: _Binaries of my desktop apps for Windows under development. Ready to download and install._<br/>
@@ -99,5 +103,6 @@ moebiusSurfing, 2022
 **Instagram**: _Weekly/monthly showcase of currently developing tools._<br/>
 
 **LinkTree**: _All my profiles links._<br/>
+</details>
 
 <br/><br/>
