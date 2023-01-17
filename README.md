@@ -79,7 +79,7 @@ moebiusSurfing, 2022
 
 <br/>
 
-<h2>What will you see in each social link?</h2>
+<h3>What will you see in each social link?</h3>
 
 **GitHub**: My libraries/modules currently under development. Mainly openFrameworks.  
 **Itch.io**: Binaries of my desktop apps for Windows under development. Ready to download and install.  
