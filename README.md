@@ -37,8 +37,8 @@ Telecom. Tech. Enginner UPC, specialized in audio DSP, 2000  |  Sound Enginner a
 </p>
 
 <p>
-<h3>PROTOTYPE APPS UNDER DEVELOPMENT  
-( WIP ) Win64 Apps. Ready to use.  
+<h3>PROTOTYPE APPS UNDER DEVELOPMENT<br/> 
+( WIP ) Win64 Apps. Ready to use.<br/>  
 Download links:</h3>
 </p>
 
