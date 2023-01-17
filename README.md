@@ -37,7 +37,7 @@ UNDER DEVELOPMENT<br/>
 
 <p>
 <h3>
-Win64 Apps. Ready to use.<br/><br/>
+Win64 Apps Binaries.<br/><br/>
 DOWNLOAD LINKS:
 </h3>
 </p>
