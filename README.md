@@ -83,7 +83,7 @@ moebiusSurfing, 2022
 <a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a> | 
 <a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
-<a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a>| 
+<a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a> | 
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 </p>
 
