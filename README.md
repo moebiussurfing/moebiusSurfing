@@ -90,7 +90,7 @@ moebiusSurfing, 2022
 <br/>
 
 <details>
-<summary>What will you see in each social link?</summary>
+<summary>WHAT WILL YOU SEE IN EACH SOCIAL LINK?</summary>
 <br>
  
 **GitHub**: _My libraries/modules currently under development. Mainly openFrameworks._<br/>
