@@ -80,7 +80,8 @@ moebiusSurfing, 2022
 </p>
 
 <p>
-<a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a> | 
+<a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a> |  
+<a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
 <a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
 <a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a> | 
@@ -94,17 +95,22 @@ moebiusSurfing, 2022
 <br>
  
 **GitHub**:  
-_My libraries/modules currently under development. Mainly openFrameworks._<br/>
+_My libraries/modules currently under development. Mainly openFrameworks add-ons._<br/>
 
-**Itch.io**: _Binaries of my desktop apps for Windows under development. Ready to download and install._<br/>
+**Itch.io**:  
+_Binaries of my desktop apps for Windows under development. Ready to download and install._<br/>
 
-**YouTube**: _Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff._<br/>
+**YouTube**:  
+_Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff._<br/>
 
-**Twitter**: _Tweets of my released apps/tools and feed from some creative coders and developers that I follow._<br/>
+**Twitter**:  
+_Tweets of my released apps/tools, and feed from some creative coders and developers that I follow._<br/>
 
-**Instagram**: _Weekly/monthly showcase of currently developing tools._<br/>
+**Instagram**:  
+_Weekly/monthly showcase of currently developing tools._<br/>
 
 **LinkTree**: _All my profiles links._<br/>
+ 
 </details>
 
 <br/><br/>
