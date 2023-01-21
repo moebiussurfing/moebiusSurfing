@@ -1,7 +1,7 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2>
-Creative Code Tools · Desktop Apps · C++ · openFrameworks · DearImGui · UI · Arduino / ESP integration · Electronics
+Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI · Arduino / ESP integration · Electronics
  
 <br/>
 <br/>
