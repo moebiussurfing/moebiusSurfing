@@ -1,9 +1,14 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2>
-Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI  
-Arduino/ESP integration @ ofApp  ·  Electronics
- 
+Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI
+
+<h3>OTHER</h3>
+Arduino/ESP USB bridge integration for ofApp's  ·  Electronics
+
+<h3>LEARN INTEREST</h3>
+Unreal Engine  ·  Houdini  ·  React / ThreeJS
+
 <br/>
 <br/>
 <br/>
