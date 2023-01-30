@@ -1,7 +1,8 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2>
-Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI · Arduino / ESP integration · Electronics
+Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI  
+Arduino/ESP integration @ ofApp  ·  Electronics
  
 <br/>
 <br/>
@@ -109,7 +110,7 @@ _Some creative code experiments, screencast of libraries/modules/add-ons and oth
 **Twitter**:  
 _Tweets of my released apps/tools, and feed from some creative coders and developers that I follow._<br/>
 
-**LinkTree**:  
+**Linktree**:  
 _All my profiles links._<br/>
  
 </details>
