@@ -4,9 +4,8 @@
 Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI
 
 <details>
-<summary>PAST < 2010</summary>
+<summary>OTHER</summary>
 </br>
-h3>OTHER</h3>
 Arduino/ESP USB bridge integration for ofApp's  ·  Electronics
 
 <h3>LEARN INTEREST</h3>
