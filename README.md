@@ -12,8 +12,9 @@ Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGu
 Arduino/ESP USB bridge integration for ofApp's  ·  Electronics
 </br>
 
-<b>LEARN INTEREST</b>  
-Unreal Engine  ·  Houdini  ·  React / ThreeJS
+<b>LEARN INTEREST</b>:
+</br>
+nreal Engine  ·  Houdini  ·  React / ThreeJS
 
 <br/>
 
