@@ -1,7 +1,7 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2>
-Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI
+Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGui  ·  UI
 
 <br/>
 <br/>
@@ -11,7 +11,7 @@ Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI
 </br>
 Arduino/ESP USB bridge integration for ofApp's  ·  Electronics
 
-<h3>LEARN INTEREST</h3>
+<b>LEARN INTEREST</b>
 Unreal Engine  ·  Houdini  ·  React / ThreeJS
 
 <br/>
@@ -21,7 +21,7 @@ Unreal Engine  ·  Houdini  ·  React / ThreeJS
 <details>
 <summary>PAST < 2010</summary>
 </br>
-Tech. Telecom Engineer, UPC. Electronics, Audio DSP spec, 2000 · Sound Engineer and Music Producer, 2001/2009 · Live Streamer since 2004 · Live Stream enhanced music shows, 2008 · Mixed Reality decentralized music Events in Second Life Metaverse vs Real Live + Machinima film making, 2007/2010.
+Tech. Telecom Engineer, UPC. Electronics, Audio DSP spec, 2000  ·  Sound Engineer and Music Producer, 2001/2009  ·  Live Streamer since 2004  ·  Live Stream enhanced music shows, 2008  ·  Mixed Reality decentralized music Events in Second Life Metaverse vs Real Live + Machinima film making, 2007/2010.
 
 </details>
  
