@@ -17,7 +17,6 @@ Unreal Engine  ·  Houdini  ·  React / ThreeJS
 </details>
  
 <br/>
-<br/>
 
 <details>
 <summary>PAST < 2010</summary>
