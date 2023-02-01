@@ -14,7 +14,7 @@ Arduino/ESP USB bridge integration for ofApp's  ·  Electronics
 </br>
 </br>
 
-<b>LEARN INTEREST</b>:
+<b>LEARN INTEREST</b>
 </br>
 Unreal Engine  ·  Houdini  ·  React / ThreeJS
 
