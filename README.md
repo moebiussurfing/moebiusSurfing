@@ -3,6 +3,9 @@
 <h2>CURRENTLY WORKING / SKILLS</h2>
 Creative Code Tools · Desktop Apps · openFrameworks · C++ · DearImGui · UI
 
+<br/>
+<br/>
+
 <details>
 <summary>OTHER</summary>
 </br>
@@ -13,7 +16,6 @@ Unreal Engine  ·  Houdini  ·  React / ThreeJS
 
 </details>
  
-<br/>
 <br/>
 <br/>
 
