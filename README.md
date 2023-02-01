@@ -35,8 +35,6 @@ Tech. Telecom Engineer, UPC. Electronics, Audio DSP spec, 2000  ·  Sound Engine
 
 <h1>🔭 ( WIP ) COMING SOON...</h1>
 
-<br/>
-
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
