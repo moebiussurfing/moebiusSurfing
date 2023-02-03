@@ -10,7 +10,7 @@ Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGu
 <details>
 <summary>OTHER</summary>
 </br>
-Arduino/ESP USB bridge integration for ofApp's  ·  Electronics
+Arduino / Espressif ESP8266|ESP32 USB bridge integration with ofApp's  ·  Electronics
 
 </br>
 </br>
