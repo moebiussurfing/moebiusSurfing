@@ -88,7 +88,7 @@ DOWNLOAD LINKS:
 <p>
 <strong> 
   <em>
-moebiusSurfing, 2022
+moebiusSurfing, 2023.
   </em>
 <br/>
 ( ManuMolina )
@@ -108,7 +108,7 @@ moebiusSurfing, 2022
 <br/>
 
 <details>
-<summary>WHAT WILL YOU SEE IN EACH SOCIAL LINK?</summary>
+<summary>WHAT WILL YOU SEE IN EACH SOCIAL LINK ?</summary>
 <br>
  
 **GitHub**:  
