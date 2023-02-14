@@ -8,14 +8,16 @@ Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGu
 <br/>
 
 <details>
-<summary>OTHER</summary>
+<summary>MORE INTEREST</summary>
+ 
+<b>OTHER</b>
 </br>
 Arduino / Espressif ESP8266 | ESP32 USB / WIFI | OSC bridge integration with ofApp's  ·  Electronics
 
 </br>
 </br>
 
-<b>LEARN INTEREST</b>
+<b>LEARN</b>
 </br>
 Unreal Engine  ·  Houdini  ·  React / ThreeJS
 
