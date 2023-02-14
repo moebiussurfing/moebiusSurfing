@@ -16,8 +16,6 @@ Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGu
 </br>
 Arduino / Espressif ESP8266 | ESP32 USB / WIFI | OSC bridge integration with ofApp's  ·  Electronics
 
-</br>
-
 <b>LEARN</b>
 </br>
 Unreal Engine  ·  Houdini  ·  React / ThreeJS
