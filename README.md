@@ -9,10 +9,10 @@ Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGu
 
 <details>
 <summary>MORE INTEREST</summary>
- 
-<b>OTHER</b>
- 
+  
 </br>
+
+<b>OTHER</b>
 </br>
 Arduino / Espressif ESP8266 | ESP32 USB / WIFI | OSC bridge integration with ofApp's  ·  Electronics
 
