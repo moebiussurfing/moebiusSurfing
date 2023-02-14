@@ -8,7 +8,7 @@ Creative Code Tools  ·  Desktop Apps  ·  openFrameworks  ·  C++  ·  DearImGu
 <br/>
 
 <details>
-<summary>MORE INTEREST</summary>
+<summary>MORE INTERESTS</summary>
   
 </br>
 
