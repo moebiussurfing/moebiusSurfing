@@ -33,7 +33,6 @@ Tech. Telecom Engineer, UPC. Electronics, Audio DSP spec, 2000  ·  Sound Engine
  
 <br/>
 <br/>
-<br/>
 
 <h1>🔭 ( WIP ) COMING SOON...</h1>
 
