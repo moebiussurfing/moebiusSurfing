@@ -127,7 +127,7 @@ _Some creative code experiments, screencast of libraries/modules/add-ons and oth
 _Tweets of my released apps/tools, and feed from some creative coders and developers that I follow._<br/>
 
 **Linktree**:  
-_All my profiles links._<br/>
+_All my profiles links and currently WIP projects._<br/>
  
 </details>
 
