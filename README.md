@@ -1,7 +1,8 @@
 <br/><br/>
 
-<h2>CURRENTLY WORKING / SKILLS</h2>  openFrameworks  •  C++  •  DearImGui  •  UI
-Creative Code Tools  •  Desktop Apps  •  Realtime Video/Text/Render • Live content
+<h2>CURRENTLY WORKING / SKILLS</h2> 
+Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI
+Realtime Video/Text/Render • Live content
 
 <br/>
 <br/>
@@ -27,9 +28,9 @@ Unreal Engine  ·  Houdini  ·  React / ThreeJS
 <details>
 <summary>PAST < 2010</summary>
 </br>
-TOSHIBA MSX. Commodore AMIGA 500. Music trackers & Gravis Ultrasound.  
-Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec, ~2000  ·  Sound Engineer and Music Producer, 2001/2009  
-Live AV Streamer since 2004  ·  Live Stream enhanced music shows, 2008  ·  Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life + Machinima DJ´s film making, 2007/2010.
+TOSHIBA MSX. Commodore AMIGA 500. Music Trackers & Gravis Ultrasound. 1990's.  /  
+Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec, ~2000  ·  Sound Engineer and Music Producer, 2001/2009  /  
+Live AV Streamer since 2004  ·  Live Stream enhanced music shows, 2008  /  Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life + Machinima DJ´s film making, 2007/2010.
 
 </details>
  
