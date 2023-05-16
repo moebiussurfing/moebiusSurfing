@@ -2,7 +2,7 @@
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
 Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  •
-Realtime Video/Text/Render • Live generated content  •  Big Screens / Installations
+Realtime Video/Text/Render  •  Live generated content  •  Big Screens / Interactive Installations
 
 <br/>
 <br/>
@@ -15,11 +15,11 @@ Realtime Video/Text/Render • Live generated content  •  Big Screens / Instal
 
 <b>OTHER</b>
 </br>
-Arduino • Espressif ESP8266 | ESP32 USB • WIFI | OSC bridge integration with ofApp's  •  Electronics
+Arduino • Espressif ESP8266 - ESP32 USB • WIFI - OSC bridge integration with ofApp's  •  Electronics
 
 <b>LEARN</b>
 </br>
-Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS
+Unreal Engine  •  Virtual Production  •  Houdini  •  React - ThreeJS
 
 <br/>
 
