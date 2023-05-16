@@ -15,11 +15,11 @@ Realtime Video/Text/Render • Live generated content  •  Big Screens / Instal
 
 <b>OTHER</b>
 </br>
-Arduino / Espressif ESP8266 | ESP32 USB / WIFI | OSC bridge integration with ofApp's  ·  Electronics
+Arduino • Espressif ESP8266 | ESP32 USB • WIFI | OSC bridge integration with ofApp's  •  Electronics
 
 <b>LEARN</b>
 </br>
-Unreal Engine  ·  Houdini  ·  React / ThreeJS
+Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS
 
 <br/>
 
@@ -30,7 +30,7 @@ Unreal Engine  ·  Houdini  ·  React / ThreeJS
 </br>
 TOSHIBA MSX. Commodore AMIGA 500. Music Trackers & Gravis Ultrasound. 1990's.  •  
 Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec, ~2000  •  Sound Engineer and Music Producer, 2001/2009  •  
-Live AV Streamer since 2004  •  Live Stream enhanced music shows, 2008  •  Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life + Machinima DJ´s film making, 2007/2010.
+Live AV Streamer since 2004  •  Live Stream enhanced music shows, 2008  •  Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life + Machinima DJ´s scene film making, 2007/2010.
 
 </details>
  
