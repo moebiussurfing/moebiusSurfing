@@ -1,8 +1,8 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
-Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI
-Realtime Video/Text/Render • Live content
+Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  •
+Realtime Video/Text/Render • Live generated content  •  Big Screens / Installations
 
 <br/>
 <br/>
