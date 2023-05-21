@@ -1,8 +1,9 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
-Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  •
-Realtime Video/Text/Render  •  Live generated content  •  Big Screens / Interactive Installations
+Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  
+Realtime Video/Text/Render  •  Live generated content  •  Big Screens / Interactive Installations  
+Machine Learning / GPT Interactions
 
 <br/>
 <br/>
@@ -28,9 +29,11 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React - ThreeJS
 <details>
 <summary>PAST < 2010</summary>
 </br>
-TOSHIBA MSX. Commodore AMIGA 500. Music Trackers & Gravis Ultrasound. 1990's.  •  
-Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec, ~2000  •  Sound Engineer and Music Producer, 2001/2009  •  
-Live AV Streamer since 2004  •  Live Stream enhanced music shows, 2008  •  Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life + Machinima DJ´s scene film making, 2007/2010.
+TOSHIBA MSX. Commodore AMIGA 500. Music Trackers & Gravis Ultrasound. 1990's.    
+Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec. ~2000.  
+Sound Engineer and Music Producer, 2001/2009.    
+Live AV Streamer since 2004  •  Live Stream enhanced music shows, 2008.  
+Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life + Machinima DJ´s scene film making, 2007/2010.
 
 </details>
  
@@ -62,7 +65,7 @@ DOWNLOAD LINKS:
 </p>
 
 <p>
-<h3>From my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> profile:<br/>
+<h3>From my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io profile</a>:<br/>
 
 </h3>
 </p>
@@ -115,16 +118,16 @@ moebiusSurfing, 2023.
 <br>
  
 **GitHub**:  
-_My libraries/modules currently under development. Mainly openFrameworks add-ons._<br/>
+_My libraries/modules currently under development. Mainly openFrameworks addons._<br/>
 
 **Instagram**:  
 _Weekly/Monthly showcase of currently developing tools._<br/>
 
 **Itch.io**:  
-_Binaries of my desktop apps for Windows under development. Ready to download and install._<br/>
+_Ready to download and install. Binaries of my desktop apps for Windows under development._<br/>
 
 **YouTube**:  
-_Some creative code experiments, screencast of libraries/modules/add-ons and other archived stuff._<br/>
+_Some creative code experiments, screencasts of libraries/modules/addons and other archived stuff._<br/>
 
 **Twitter**:  
 _Tweets of my released apps/tools, and feed from some creative coders and developers that I follow._<br/>
