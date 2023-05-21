@@ -1,9 +1,9 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
-Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  
-Realtime Video / Text / Render  •  Live generated content  •  Big Screens / Interactive Installations  
-Machine Learning / GPT Interactions  
+Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  <br/>
+Realtime Video / Text / Render  •  Live generated content  •  Big Screens / Interactive Installations  <br/>
+Machine Learning / GPT Interactions  <br/>
 
 <br/>
 <br/>
