@@ -13,11 +13,11 @@ Machine Learning / GPT Interactions  <br/>
   
 </br>
 
-<b>OTHER</b>
+<b>OTHER SKILLS</b>
 </br>
 Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with ofApp's  •  Electronics
 
-<b>LEARN</b>
+<b>WANT TO LEARN</b>
 </br>
 Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Electron
 
