@@ -30,10 +30,10 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 </br>
 Toshiba MSX 64Kb. Commodore AMIGA 500. Intel 486 DX2. Music Trackers & Gravis Ultrasound. <b>1990<b/>'s.  <br/><br/>
 Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec. **~2000**.  <br/><br/>
-Sound Engineer and Music Producer. **2001-2009**.  <br/><br/>
-Live AV Streamer since 2004  •  Live Stream enhanced music shows. **~2008**.  <br/><br/>
+Sound Engineer and Music Producer. <b>~2001-2009<b/>.  <br/><br/>
+Live AV Streamer since <b>2004<b/>  •  Live Stream enhanced music shows. <b>~2008<b/>.  <br/><br/>
 Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life  <br/><br/>
-Machinima DJ´s party scene film making, **~2007-2010**.  <br/><br/>
+Machinima DJ´s party scene film making, <b>~2007-2010<b/>.  <br/><br/>
  
 </details>
  
