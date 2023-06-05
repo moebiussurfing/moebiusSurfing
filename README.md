@@ -1,8 +1,8 @@
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
-Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  <br/>
-Realtime Video / Text / Render  •  Live generated content  •  Big Screens / Interactive Installations  <br/>
+Custom Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI  <br/>
+Realtime Video / Text / Render  •  Live Generated Content  •  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
 
 <br/>
@@ -17,7 +17,7 @@ Machine Learning / GPT Interactions  <br/>
 </br>
 Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with ofApp's  •  Electronics
 
-<b>WANT TO LEARN</b>
+<b>STARTING LEARN</b>
 </br>
 Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Electron
 
@@ -28,12 +28,12 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 <details>
 <summary>PAST < 2010</summary>
 </br>
-Toshiba MSX 64Kb. Commodore AMIGA 500. Intel 486 DX2... Music Trackers & Gravis Ultrasound. 1990's.  <br/><br/>
-Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec. ~2000.  <br/><br/>
-Sound Engineer and Music Producer, 2001 / 2009.  <br/><br/>
-Live AV Streamer since 2004  •  Live Stream enhanced music shows, ~2008.  <br/><br/>
+Toshiba MSX 64Kb. Commodore AMIGA 500. Intel 486 DX2. Music Trackers & Gravis Ultrasound. **1990**'s.  <br/><br/>
+Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec. **~2000**.  <br/><br/>
+Sound Engineer and Music Producer. **2001-2009**.  <br/><br/>
+Live AV Streamer since 2004  •  Live Stream enhanced music shows. **~2008**.  <br/><br/>
 Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life  <br/><br/>
-Machinima DJ´s party scene film making, ~2007 / ~2010.  <br/><br/>
+Machinima DJ´s party scene film making, **~2007-2010**.  <br/><br/>
  
 </details>
  
