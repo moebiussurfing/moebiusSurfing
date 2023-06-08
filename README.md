@@ -98,10 +98,6 @@ DOWNLOAD LINKS:
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
 </div>
 
-<div align="left">
-<img src="https://youtu.be/ut0HNKp3U2o" align="center" height="40%" width="40%">
-</div>
-
 <br/>
 <br/>
 
