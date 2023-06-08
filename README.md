@@ -89,9 +89,8 @@ DOWNLOAD LINKS:
 <br/>
 <br/>
 
+## WORKS  
 #### WIP  
-
-### WORKS  
 [wip-text-player](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
 
 <br/>
