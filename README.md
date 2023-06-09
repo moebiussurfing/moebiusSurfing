@@ -90,11 +90,11 @@ DOWNLOAD LINKS:
 <br/>
 
 ## WORKS ( WIP ) 
-[MEDIUM DOC: Wip-Text-Player](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
+[Wip-Text-Player @ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
 [](https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg)  
 
 <div align="left">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="60%" width="60%">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="50%" width="50%">
 </div>
 
 <br/>
