@@ -29,7 +29,7 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 <summary>PAST < 2010</summary>
 </br>
 Machinima DJ´s party scene film making. ~2007-2010.  <br/><br/>
-Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. <br/>
+Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. <br/><br/>
 Live AV Streamer since 2004  •  Live Stream enhanced music shows. ~2008.  <br/><br/>
 Sound Engineer and Music Producer. ~2001-2009. <br/><br/>
 Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec. ~2000. <br/><br/>
