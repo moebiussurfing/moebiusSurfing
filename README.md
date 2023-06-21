@@ -28,7 +28,7 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 <details>
 <summary>PAST < 2010</summary>
 </br>
-Machinima DJ´s party scene film making. ~2007-2010.  <br/><br/>
+Machinima DJ´s party scene filmmaking. ~2007-2010.  <br/><br/>
 Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. <br/><br/>
 Live AV Streamer since 2004  •  Live Stream enhanced music shows. ~2008.  <br/><br/>
 Sound Engineer and Music Producer. ~2001-2009. <br/><br/>
@@ -90,7 +90,7 @@ DOWNLOAD LINKS:
 <br/>
 
 ## WORKS ( WIP ) 
-[Wip-Text-Player @ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
+[WIP-Text-Player @ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
 
 <div align="left">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
