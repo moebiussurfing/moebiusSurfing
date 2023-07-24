@@ -6,7 +6,6 @@ Realtime Video / Text / Render  •  Live Generated Content  •  Big Screens / 
 Machine Learning / GPT Interactions  <br/>
 
 <br/>
-<br/>
 
 <details>
 <summary>MORE INTERESTS</summary>
