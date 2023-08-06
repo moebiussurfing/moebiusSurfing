@@ -2,7 +2,7 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner5.png" align="center" height="100%" width="100%">
 </div>
 
-<br/></br>
+<br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
 Custom Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI <br/><br/>
