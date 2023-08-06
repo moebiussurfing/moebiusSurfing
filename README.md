@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner2.png" align="center" height="100%" width="100%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner3.png" align="center" height="100%" width="100%">
 </div>
 
 <br/><br/>
@@ -9,12 +9,11 @@ Custom Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  �
 Realtime Video / Text / Render  •  Live Generated Content  •  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
 
-<br/>
-
-<details>
-<summary>MORE INTERESTS</summary>
+<br/></br>
   
-</br>
+<details>
+
+<summary>MORE INTERESTS</summary>
 
 <b>OTHER SKILLS</b>
 </br>
@@ -26,7 +25,7 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 
 </details>
 
-<br/>
+<br/></br>
  
 <details>
 <summary>PAST < 2010</summary>
@@ -40,8 +39,7 @@ Toshiba MSX 64Kb. Commodore AMIGA 500. Intel 486 DX2. Music Trackers & Gravis Ul
  
 </details>
  
-<br/>
-<br/>
+<br/><br/>
 
 <h1>🔭 ( WIP ) COMING SOON...</h1>
 
