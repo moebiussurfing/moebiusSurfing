@@ -14,7 +14,7 @@ Machine Learning / GPT Interactions  <br/>
 <details>
 
 <summary>MORE INTERESTS</summary>
-
+</br>
 <b>OTHER SKILLS</b>
 </br>
 Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with ofApp's  •  Electronics
@@ -25,7 +25,7 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 
 </details>
 
-<br/></br>
+</br>
  
 <details>
 <summary>PAST < 2010</summary>
