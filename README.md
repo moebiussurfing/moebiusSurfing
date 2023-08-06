@@ -1,3 +1,7 @@
+<div align="left">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner.png" align="center" height="100%" width="100%">
+</div>
+
 <br/><br/>
 
 <h2>CURRENTLY WORKING / SKILLS</h2> 
@@ -20,9 +24,9 @@ Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with
 </br>
 Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Electron
 
-<br/>
-
 </details>
+
+<br/>
  
 <details>
 <summary>PAST < 2010</summary>
