@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner3.png" align="center" height="100%" width="100%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner5.png" align="center" height="100%" width="100%">
 </div>
 
 <br/></br>
