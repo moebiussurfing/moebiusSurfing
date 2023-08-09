@@ -2,7 +2,7 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner6.png" align="center" height="100%" width="100%">
 </div>
 
-<h2>CURRENTLY WORKING / SKILLS</h2> 
+<h2>WORKING / SKILLS / INTERESTS</h2> 
 Custom Creative Code Tools  •  Desktop Apps  •   openFrameworks  •  C++  •  DearImGui  •  UI <br/><br/>
 Realtime Video / Text / Render  •  Live Generated Content  •  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
