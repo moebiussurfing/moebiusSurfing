@@ -124,7 +124,7 @@ moebiusSurfing, 2023.
 <br/>
 
 <details>
-<summary>WHAT WILL YOU SEE IN EACH SOCIAL LINK ?</summary>
+<summary>WHAT'S IN EACH SOCIAL LINK?</summary>
 <br>
  
 **GitHub**:  
