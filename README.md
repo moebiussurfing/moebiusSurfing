@@ -1,5 +1,5 @@
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner6.png" align="center" height="100%" width="100%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner6B.png" align="center" height="100%" width="100%">
 </div>
 
 <h2>WORKING / SKILLS / INTERESTS</h2> 
@@ -127,23 +127,23 @@ moebiusSurfing, 2023.
 <summary>WHAT'S IN EACH SOCIAL LINK?</summary>
 <br>
  
-**GitHub**:  
-_My libraries/modules currently under development. Mainly openFrameworks addons._<br/>
+- **GitHub**:  
+_My under-development libraries/modules. Mainly openFrameworks addons._<br/>
 
-**Instagram**:  
+- **Instagram**:  
 _Weekly/Monthly showcase of currently developing tools._<br/>
 
-**Itch.io**:  
-_Ready to download and install. Binaries of my desktop apps for Windows under development._<br/>
+- **Itch.io**:  
+_Ready to download and install. Binaries of my desktop apps for Windows._<br/>
 
-**YouTube**:  
-_Some creative code experiments, screencasts of libraries/modules/addons and other archived stuff._<br/>
+- **YouTube**:  
+_Some creative code experiments, screencasts of libraries/modules/addons, and other archived stuff._<br/>
 
-**Twitter**:  
+- **Twitter**:  
 _Tweets of my released apps/tools, and feed from some creative coders and developers that I follow._<br/>
 
-**Linktree**:  
-_All my profiles links and currently WIP projects._<br/>
+- **Linktree**:  
+_All my profiles links and WIP projects._<br/>
  
 </details>
 
