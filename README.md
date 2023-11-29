@@ -113,7 +113,7 @@ moebiusSurfing, 2023.
 
 <br/>
 CURRENTLY WORKING OR SELECTED PROJECTS: 
-<br/><br/>
+<br/>
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 <br/><br/>
 
