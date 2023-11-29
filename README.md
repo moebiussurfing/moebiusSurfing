@@ -122,8 +122,7 @@ CURRENTLY WORKING OR SELECTED PROJECTS:
 <a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a> | 
 <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
-<a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
-<a href="https://bento.me/moebiussurfing/"target="_blank">Bento</a>
+<a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a>
 </p>
 
 <br/>
