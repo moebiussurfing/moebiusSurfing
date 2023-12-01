@@ -46,9 +46,8 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 </div>
 
 <h4>Download <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> PALETTO (Alpha) 
-</a> for Windows.
-</h4>
-<h5>Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.<br/>
+</a> for Windows.</h4>
+<h5>Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.
 </h5>
 
 <br/>
