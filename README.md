@@ -45,8 +45,8 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
 
-<h2>Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.<br/>
-</h2>
+<h4>Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.<br/>
+</h4>
 
 <br/>
 <br/>
