@@ -111,7 +111,7 @@ moebiusSurfing, 2023.
 ( ManuMolina )
 
 <br/>
-<a href="mailto:moebiussurfing@gmail.com" target="_blank">Email</a>  
+Write me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a>  
 <br/>
 
 </strong>
@@ -122,15 +122,13 @@ CURRENTLY WORKING OR SELECTED PROJECTS:
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 <br/><br/>
 
-PROFILES:  
 <p>
+PROFILES:  
 <a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a> | 
 <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
 <a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a>
 </p>
-
-<br/>
 
 <details>
 <summary>WHAT'S IN EACH SOCIAL LINK?</summary>
