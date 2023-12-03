@@ -7,7 +7,7 @@ Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  Dear
 Realtime Video / Text / Render  |  Live Generated Content  |  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
 
-<br/>
+<br><br/>
   
 <details>
 
