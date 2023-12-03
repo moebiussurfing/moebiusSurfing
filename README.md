@@ -122,6 +122,7 @@ CURRENTLY WORKING OR SELECTED PROJECTS:
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 <br/><br/>
 
+PROFILES:  
 <p>
 <a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a> | 
 <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
@@ -133,7 +134,6 @@ CURRENTLY WORKING OR SELECTED PROJECTS:
 
 <details>
 <summary>WHAT'S IN EACH SOCIAL LINK?</summary>
-<br>
  
 - **GitHub**:  
 _My under-development libraries/modules. Mainly openFrameworks addons._<br/>
