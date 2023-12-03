@@ -7,7 +7,7 @@ Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  Dear
 Realtime Video / Text / Render  |  Live Generated Content  |  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
 
-<br/></br>
+<br/>
   
 <details>
 
@@ -101,6 +101,7 @@ DOWNLOAD LINKS:
 
 <br/>
 <br/>
+<br/>
 
 <h1>📫 CONTACT / TUNE</h1>
 
@@ -115,7 +116,7 @@ moebiusSurfing, 2023.
 </strong>
 <br/>
 write me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a> !
-<br/>
+<br/><br/>
 
 </p>
 
