@@ -109,18 +109,18 @@ moebiusSurfing, 2023.
   </em>
 <br/>
 ( ManuMolina )
-
 <br/>
-write an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a>!
+<br/>
+write me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a> !
 <br/>
 
 </strong>
 </p>
 
-CURRENTLY WORKING OR SELECTED PROJECTS: 
+CURRENTLY WORKING <br/>OR SELECTED PROJECTS: 
 <br/>
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
-<br/><br/>
+<br/>
 
 <p>
 PROFILES:<br/>  
