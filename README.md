@@ -120,11 +120,10 @@ Drop me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a> 
 
 </p>
 
-CURRENTLY ACTIVE PROJECTS: 
+CURRENT ACTIVE PROJECTS: 
 <br/>
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 
-<br/>
 <br/>
 
 <p>
