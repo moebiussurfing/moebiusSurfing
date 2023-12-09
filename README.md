@@ -115,7 +115,7 @@ moebiusSurfing, 2023.
 <br/>
 </strong>
 <br/>
-write me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a> !
+Drop me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> email</a> !
 <br/><br/>
 
 </p>
