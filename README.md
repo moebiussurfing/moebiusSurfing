@@ -106,6 +106,7 @@ DOWNLOAD LINKS:
 <h3>
 RealityField
 </h3>
+<p>
 for [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield)<br/>
 A <b>Virtual Production</b> oriented tracking software for Windows.<br/>
 The original code was created by <b>Andy Jarosz</b> using openFrameworks/C++.</br>
@@ -113,6 +114,7 @@ The core code was improved by <b>Roy Macdonald</b>.<br/>
 I did the UI front-end upgrade: design and code integration, <br/>
 using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library for OF.
 <br/>
+</p>
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="40%" width="40%">
 </div>
