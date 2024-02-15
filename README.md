@@ -52,7 +52,9 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 
 <br/>
 
-[chatSURF | WIP / DEVELOP / PROTOTYPE @ Medium.com](https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f)
+<h5>chatSURF | WIP / DEVELOP / PROTOTYPE</h5>  
+Conversational Assistant powered by ChatGPT  
+@ [Medium.com](https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f)  
 
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
