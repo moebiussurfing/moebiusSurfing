@@ -53,7 +53,7 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 <br/>
 
 <h5>chatSURF | WIP / DEVELOP / PROTOTYPE</h5>  
-Conversational Assistant powered by ChatGPT  
+Conversational Assistant powered by ChatGPT<br/>  
 @ [Medium.com](https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f)  
 
 <div align="left">
