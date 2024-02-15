@@ -93,7 +93,7 @@ DOWNLOAD LINKS:
 
   * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a> <br/>[ <i>ALPHA</i> ]
   <br/><b>REAL TIME AUDIO ANALYZER</b><br/> 
-<i>Beat Extract, sense and Bang triggers: MUSIC to OSC</i></br>
+<i>Beat Extract, sense, and Bang triggers: MUSIC to OSC</i></br>
 
 </p>
 
@@ -122,7 +122,12 @@ using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfing
 
 <br/>
 
-[WIP-Text-Player @ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
+<h3>
+WIP-Text-Player
+</h3>
+
+Custom Prototype app for text installations [@ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
+
 <div align="left">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
 </div>
