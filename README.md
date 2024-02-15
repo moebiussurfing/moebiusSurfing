@@ -101,8 +101,12 @@ DOWNLOAD LINKS:
 <br/>
 
 ## WORKS ( WIP ) 
+<br/>
 
-[RealityField for LOLED @ Gumroad.com](https://loledvirtual.gumroad.com/l/realityfield)
+[RealityField for LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield)
+<br/>
+UI front-end design and code using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
+<br/>
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="40%" width="40%">
 </div>
