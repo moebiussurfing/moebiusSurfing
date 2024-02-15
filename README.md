@@ -113,7 +113,7 @@ DOWNLOAD LINKS:
 • RealityField / 2023
 </h3>
 
-</h5>
+
 A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
 By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 Original code created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
@@ -121,7 +121,6 @@ The core code was deeply improved by <b>Roy Macdonald</b>.<br/>
 I did the <b>UI front-end</b> side, re-design and code integration, <br/>
 using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
 <br/>
-</h5>
 
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="40%" width="40%">
@@ -134,10 +133,9 @@ using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfing
 • WIP-Text-Player / 2022
 </h3>
 
-<h5>
+
 Custom Prototype app for animated text layout installations.</br>
 [@ Medium](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
-</h5>
 
 <div align="left">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
