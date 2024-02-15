@@ -104,8 +104,9 @@ DOWNLOAD LINKS:
 <br/>
 
 <h3>
-<b>RealityField</b> for [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield)<br/>
+RealityField
 </h3>
+for [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield)<br/>
 A <b>Virtual Production</b> oriented tracking software for Windows.<br/>
 The original code was created by <b>Andy Jarosz</b> using openFrameworks/C++.</br>
 The core code was improved by <b>Roy Macdonald</b>.<br/>
