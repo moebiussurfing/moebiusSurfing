@@ -62,7 +62,8 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
 </div>
 <h5>
-Conversational Assistant powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium</a>.
+A Conversational Assistant for exploring artists.</br>
+Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium</a>.
 </h5>
 <br/><br/>
 
@@ -113,11 +114,11 @@ DOWNLOAD LINKS:
 • RealityField
 </h3>
 
-By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
-The original code was created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
+By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
+Original code created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
 The core code was deeply improved by <b>Roy Macdonald</b>.<br/>
-I did the <b>UI front-end</b> remake/upgrade: design and code integration, <br/>
+I did the <b>UI front-end</b> re-design and code integration, <br/>
 using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
 <br/>
 
@@ -132,7 +133,8 @@ using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfing
 • WIP-Text-Player
 </h3>
 
-Custom Prototype app for text installations [@ Medium](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
+Custom Prototype app for animated text installations.</br>
+[Overview @ Medium](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
 
 <div align="left">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
