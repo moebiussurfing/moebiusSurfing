@@ -50,7 +50,7 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 </div>
 <h5>
 <b>A Colors Manager desktop app</b></br>
-<a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> Download (preAlpha)</a> for Windows.<br/>
+<a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> Download (alpha)</a> for Windows.<br/>
 Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.
 </h5>
 <br/><br/>
@@ -110,14 +110,14 @@ DOWNLOAD LINKS:
 <br/>
 
 <h3>
-RealityField
+• RealityField
 </h3>
 
-From [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
+By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
 The original code was created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
-The core code was improved by <b>Roy Macdonald</b>.<br/>
-I did the <b>UI front-end</b> upgrade: design and code integration, <br/>
+The core code was deeply improved by <b>Roy Macdonald</b>.<br/>
+I did the <b>UI front-end</b> remake/upgrade: design and code integration, <br/>
 using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
 <br/>
 
@@ -129,10 +129,10 @@ using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfing
 <br/>
 
 <h3>
-WIP-Text-Player
+• WIP-Text-Player
 </h3>
 
-Custom Prototype app for text installations [@ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
+Custom Prototype app for text installations [@ Medium](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
 
 <div align="left">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
