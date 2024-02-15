@@ -49,7 +49,7 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
 
-<b>A Colors Manager desktop app</b></br>
+<b>A Colors Manager desktop app</b>.</br>
 <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> Download (alpha)</a> for Windows.<br/>
 Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.
 
@@ -115,11 +115,11 @@ DOWNLOAD LINKS:
 
 
 A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
-By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 Original code created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
 The core code was deeply improved by <b>Roy Macdonald</b>.<br/>
 I did the <b>UI front-end</b> side, re-design and code integration, <br/>
 using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
+By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 <br/>
 
 <div align="left">
