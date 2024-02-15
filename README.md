@@ -46,7 +46,7 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
 <h5>
-<b>PALETTO | COLORS MANAGER</b></br>
+<b>PALETTO | Colors Manager</b></br>
 Download <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> PALETTO (preAlpha)</a> for Windows.<br/>
 Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.
 </h5>
@@ -56,8 +56,7 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
 </div>
 <h5>
-<b>chatSURF | WIP / PROTOTYPE</b></br>
-Conversational Assistant powered by ChatGPT<br/> <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium.com</a>.
+chatSURF | Conversational Assistant powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium.com</a>.
 </h5>
 <br/><br/>
 
@@ -102,15 +101,22 @@ DOWNLOAD LINKS:
 <br/>
 
 ## WORKS ( WIP ) 
-[WIP-Text-Player @ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
 
+[RealityField for LOLED @ Gumroad.com](https://loledvirtual.gumroad.com/l/realityfield)
+<div align="left">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="40%" width="40%">
+</div>
+<br/>
+
+<br/>
+
+[WIP-Text-Player @ Medium.com](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)
 <div align="left">
 <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
 </div>
+<br/>
 
-<br/>
-<br/>
-<br/>
+<br/><br/>
 
 <h1>📫 CONTACT / TUNE</h1>
 
@@ -162,7 +168,7 @@ _Some creative code experiments, screencasts of libraries/modules/addons, and ot
 _Tweets of my released apps/tools, and feed from some creative coders and developers that I follow._<br/>
 
 - **Linktree**:  
-_All my profiles links and WIP projects._<br/>
+_All my profile links and WIP projects._<br/>
  
 </details>
 
