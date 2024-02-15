@@ -45,21 +45,23 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
 <h5>
+<b>PALETTO | COLORS MANAGER</b></br>
 Download <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> PALETTO (preAlpha)</a> for Windows.<br/>
 Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.
 </h5>
-  
+<br/><br/>
+
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
 </div>
 <br/>
 <h5>
-chatSURF | WIP / DEVELOP / PROTOTYPE</br>
+<b>chatSURF | WIP / PROTOTYPE</b></br>
 Conversational Assistant powered by ChatGPT<br/>
 <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium.com</a>.
 </h5>
+<br/><br/>
 
-<br/>
 <br/>
 
 <p>
