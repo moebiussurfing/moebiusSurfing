@@ -42,6 +42,9 @@ Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. 
 <h1>🔭 ( WIP ) COMING SOON...</h1>
 <br/>
 
+<h3>
+Paletto
+</h3>
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
 </div>
@@ -52,11 +55,14 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 </h5>
 <br/><br/>
 
+<h3>
+chatSURF
+</h3>
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
 </div>
 <h5>
-chatSURF | Conversational Assistant powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium.com</a>.
+Conversational Assistant powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium</a>.
 </h5>
 <br/><br/>
 
@@ -112,7 +118,7 @@ A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
 The original code was created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
 The core code was improved by <b>Roy Macdonald</b>.<br/>
 I did the <b>UI front-end</b> upgrade: design and code integration, <br/>
-using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library for OF.
+using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
 <br/>
 
 <div align="left">
