@@ -103,8 +103,9 @@ DOWNLOAD LINKS:
 ## WORKS ( WIP ) 
 <br/>
 
-[RealityField for LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield)
+RealityField for [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield)
 <br/>
+A Virtual Production oriented tracking software.<br/>
 UI front-end design and code using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
 <br/>
 <div align="left">
