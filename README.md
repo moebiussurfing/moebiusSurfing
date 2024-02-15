@@ -62,7 +62,7 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
 </div>
 
-A Conversational Assistant for exploring artists.</br>
+A Conversational Assistant </br>for exploring artists.</br>
 Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium</a>.
 
 <br/><br/>
@@ -117,8 +117,8 @@ DOWNLOAD LINKS:
 A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
 Original code created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
 The core code was deeply improved by <b>Roy Macdonald</b>.<br/>
-I did the <b>UI front-end</b> side, re-design and code integration, <br/>
-using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.
+I did the <b>UI front-end</b> side, re-design and code integration, 
+using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.<br/>
 By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 <br/>
 
