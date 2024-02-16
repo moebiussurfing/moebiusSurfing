@@ -122,7 +122,7 @@ Original code created by [Andy Jarosz](https://github.com/MadlyFX) using [openFr
 The core code was deeply improved by [Roy Macdonald](https://github.com/roymacdonald).<br/>
 I did the <b>UI Front-end</b> side, re-design, and code integration.</br> 
 Uses my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.<br/>
-A project by [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
+A project by [LOLED Virtual @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 <br/>
 
 <div align="left">
