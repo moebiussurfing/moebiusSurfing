@@ -70,14 +70,14 @@ Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-cha
 
 <p>
 <h2>
-PROJECTS / PROTOTYPE APPS<br/>
+🕹 ( WIP ) PROTOTYPE APPS<br/>
 UNDER DEVELOPMENT<br/> 
 </h2>
 </p>
 
 <p>
 <h3>
-WIN-x64 apps binaries.<br/><br/>
+WIN_x64 apps binaries.<br/><br/>
 DOWNLOAD LINKS:
 </h3>
 </p>
@@ -106,20 +106,19 @@ DOWNLOAD LINKS:
 <br/>
 <br/>
 
-## WORKS ( WIP ) 
+## ⚡ ( WIP ) WORKS
 <br/>
 
 <h3>
 • RealityField / 2023
 </h3>
 
-
 A <b>Virtual Production</b> oriented <b>tracking software</b> for Windows.<br/>
 Original code created by <b>Andy Jarosz</b> using <b>openFrameworks/C++</b>.</br>
 The core code was deeply improved by <b>Roy Macdonald</b>.<br/>
-I did the <b>UI front-end</b> side, re-design and code integration, 
-using my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.<br/>
-By [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
+I did the <b>UI front-end</b> side, re-design, and code integration.</br> 
+Uses my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.<br/>
+A project by [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 <br/>
 
 <div align="left">
