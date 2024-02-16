@@ -2,6 +2,8 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner6C.png" align="center" height="100%" width="100%">
 </div>
 
+<br/>
+
 <h1>WORKING / SKILLS / INTERESTS</h1>
 <br/>
 Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  DearImGui  |  UI <br/><br/>
@@ -177,7 +179,7 @@ PROFILES:<br/>
 </p>
 
 <details>
-<summary>WHAT'S IN EACH SOCIAL LINK?</summary>
+<summary>WHAT'S IN EACH LINK?</summary>
  
 - **GitHub**:  
 _My under-development libraries/modules. Mainly openFrameworks addons._<br/>
