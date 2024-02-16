@@ -2,7 +2,7 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner6C.png" align="center" height="100%" width="100%">
 </div>
 
-<h2>WORKING / SKILLS / INTERESTS</h2> 
+<h1>WORKING / SKILLS / INTERESTS</h1> 
 Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  DearImGui  |  UI <br/><br/>
 Realtime Video / Text / Render  |  Live Generated Content  |  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
@@ -19,7 +19,7 @@ Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with
 </br></br>
 <b>STARTING LEARN</b>
 </br>
-Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Electron
+Unreal Engine  •  Stable Diffusion  •  Virtual Production  •  Houdini  •  React / ThreeJS / Electron
 
 </details>
 
@@ -29,7 +29,7 @@ Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Ele
 <summary>PAST < 2010</summary>
 </br>
 • Machinima DJ´s party scene filmmaking. ~2007-2010.  
-Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. <br/><br/>
+RETRO Mixed Reality decentralized music Events in Second Life Metaverse vs Real Life. <br/><br/>
 • Live AV Streamer since 2004  -  Live Stream enhanced music shows. ~2008.  <br/><br/>
 • Sound Engineer and Music Producer. ~2001-2009. <br/><br/>
 • Tech-Telecom Engineer, Barcelona. UPC. Electronics, Audio DSP spec. ~2000. <br/><br/>
