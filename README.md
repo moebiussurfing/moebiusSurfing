@@ -126,7 +126,7 @@ A project by [LOLED @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).
 <br/>
 
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="40%" width="40%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="50%" width="50%">
 </div>
 <br/>
 
@@ -140,7 +140,7 @@ Custom Prototype app for animated text layout installations.</br>
 [@ Medium](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
 
 <div align="left">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="40%" width="40%">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="50%" width="50%">
 </div>
 <br/>
 
@@ -159,7 +159,7 @@ moebiusSurfing, 2024.
 <br/>
 </strong>
 <br/>
-Drop me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> @email</a> !
+Drop me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> @ Email</a> !
 <br/><br/>
 
 </p>
