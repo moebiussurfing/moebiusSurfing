@@ -2,7 +2,8 @@
 <img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/moebiusSurfingBanner6C.png" align="center" height="100%" width="100%">
 </div>
 
-<h1>WORKING / SKILLS / INTERESTS</h1> 
+<h1>WORKING / SKILLS / INTERESTS</h1>
+<br/>
 Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  DearImGui  |  UI <br/><br/>
 Realtime Video / Text / Render  |  Live Generated Content  |  Big Screens / Interactive Installations  <br/>
 Machine Learning / GPT Interactions  <br/>
@@ -74,6 +75,7 @@ Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-cha
 UNDER DEVELOPMENT<br/> 
 </h1>
 </p>
+<br/>
 
 <p>
 <h3>
@@ -143,6 +145,7 @@ Custom Prototype app for animated text layout installations.</br>
 <br/><br/>
 
 <h1>📫 CONTACT / TUNE</h1>
+<br/>
 
 <p>
 <strong> 
