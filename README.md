@@ -69,10 +69,10 @@ Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-cha
 <br/>
 
 <p>
-<h2>
+<h1>
 🕹 ( WIP ) PROTOTYPE APPS<br/>
 UNDER DEVELOPMENT<br/> 
-</h2>
+</h1>
 </p>
 
 <p>
@@ -106,7 +106,7 @@ DOWNLOAD LINKS:
 <br/>
 <br/>
 
-## ⚡ ( WIP ) WORKS
+# ⚡ ( WIP ) WORKS
 <br/>
 
 <h3>
