@@ -73,8 +73,7 @@ Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-cha
 
 <p>
 <h1>
-🕹 ( WIP ) PROTOTYPE APPS<br/>
-UNDER DEVELOPMENT<br/> 
+🕹 ( WIP ) PROTOTYPE APPS DEV<br/>
 </h1>
 </p>
 <br/>
@@ -93,15 +92,15 @@ DOWNLOAD LINKS:
 
 <p>
   
-  * <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank">Paletto</a> <br/>[ <i>ALPHA</i> ]
+  * <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank">Paletto</a> <br/>[ <i>alpha</i> ]
   <br/><b>COLOR MANAGER FOR CREATIVE CODERS</b><br/>
 <i>Toolkit to explore and create palettes. Colorize your scenes!</i><br/>
 
-  * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a> <br/>[ <i>ALPHA</i> ]
+  * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a> <br/>[ <i>alpha</i> ]
   <br/><b>REAL TIME MASHUP VIDEO ENGINE</b><br/> 
 <i>Automated IN-SYNC reactive video for Live Music</i><br/>
 
-  * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a> <br/>[ <i>ALPHA</i> ]
+  * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a> <br/>[ <i>alpha</i> ]
   <br/><b>REAL TIME AUDIO ANALYZER</b><br/> 
 <i>Beat Extract, sense, and Bang triggers: MUSIC to OSC</i></br>
 
