@@ -65,7 +65,7 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
 </div>
 
-A Conversational Assistant </br>for exploring artists.</br>
+A Conversational Assistant, </br>for exploring artists and creators.</br>
 Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-chatsurf-05955ed6fb9f" target="_blank">@ Medium</a>.
 
 <br/><br/>
@@ -88,15 +88,15 @@ DOWNLOAD LINKS: from my <a href="https://moebiussurfing.itch.io/" target="_blank
 <p>
   
   * <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank">Paletto</a> <br/>[ <i>alpha</i> ]
-  <br/><b>COLOR MANAGER FOR CREATIVE CODERS</b><br/>
+  <br/><b>A COLOR MANAGER FOR CREATIVE CODERS</b><br/>
 <i>Toolkit to explore and create palettes. Colorize your scenes!</i><br/>
 
   * <a href="https://moebiussurfing.itch.io/skipsurf?secret=vThAQqFofT4go1Wvh4KUcCHO8UU" target="_blank">skipSURF</a> <br/>[ <i>alpha</i> ]
-  <br/><b>REAL TIME MASHUP VIDEO ENGINE</b><br/> 
+  <br/><b>A REAL TIME MASHUP VIDEO ENGINE</b><br/> 
 <i>Automated IN-SYNC reactive video for Live Music</i><br/>
 
   * <a href="https://moebiussurfing.itch.io/beatsyncsurf?secret=YWZnvUDrkW76SEs81aQJkQ7jmlE" target="_blank">beatSyncSURF</a> <br/>[ <i>alpha</i> ]
-  <br/><b>REAL TIME AUDIO ANALYZER</b><br/> 
+  <br/><b>A REAL TIME AUDIO ANALYZER</b><br/> 
 <i>Beat Extract, sense, and Bang triggers: MUSIC to OSC</i></br>
 
 </p>
@@ -108,7 +108,7 @@ DOWNLOAD LINKS: from my <a href="https://moebiussurfing.itch.io/" target="_blank
 <br/>
 
 <h3>
-• RealityField / 2023
+• RealityField (2023)
 </h3>
 
 A <b>Virtual Production</b> oriented <b>tracking software</b>/devices hud for Windows.<br/>
@@ -127,7 +127,7 @@ A project by [LOLED Virtual @ Gumroad](https://loledvirtual.gumroad.com/l/realit
 <br/>
 
 <h3>
-• WIP-Text-Player / 2022
+• WIP-Text-Player (2022)
 </h3>
 
 Custom Prototype app for animated text layout installations.</br>
