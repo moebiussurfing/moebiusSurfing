@@ -80,7 +80,7 @@ Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-cha
 
 <p>
 <h3>
-DOWNLOAD LINKS. WIN_x64 apps binaries from my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io profile</a>:
+DOWNLOAD WIN_x64 binaries from my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io profile</a>:
 </h3>
 </p>
 
@@ -113,7 +113,7 @@ DOWNLOAD LINKS. WIN_x64 apps binaries from my <a href="https://moebiussurfing.it
 A <b>Virtual Production</b> oriented <b>tracking-software</b>/devices-hud for Windows.<br/>
 Original code created by [Andy Jarosz](https://github.com/MadlyFX) using [openFrameworks/C++](https://github.com/openframeworks/openFrameworks).</br>
 The core code was deeply improved by [Roy Macdonald](https://github.com/roymacdonald).<br/>
-I did the <b>UI Front-end</b> side, re-design, and code integration.</br> 
+I did the <b>UI Frontend</b> side, re-design, and code integration.</br> 
 Uses my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.<br/>
 A project by [LOLED Virtual @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
 <br/>
