@@ -56,7 +56,7 @@ RETRO Mixed Reality decentralized music Events in Second Life Metaverse vs Real 
 <a href="https://moebiussurfing.itch.io/paletto?secret=VXDlB9ydmE23TwQwdng75c7uo" target="_blank"> Download (alpha)</a> for Windows.<br/>
 Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_blank">ofxColorManager</a>.
 
-<br/><br/>
+<br/>
 
 <h3>
 • chatSURF
@@ -119,7 +119,7 @@ A project by [LOLED Virtual @ Gumroad](https://loledvirtual.gumroad.com/l/realit
 <br/>
 
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="60%" width="60%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="70%" width="70%">
 </div>
 <br/>
 
@@ -133,7 +133,7 @@ Custom Prototype app for animated text layout installations.</br>
 [Work progress document @ Medium](https://medium.com/@moebiussurfing/wip-text-player-c0b2452f2028)</br>
 
 <div align="left">
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="50%" width="50%">
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*UwS2SLRcXj2h5JFnUCMoiQ.jpeg" align="center" height="45%" width="45%">
 </div>
 <br/>
 
