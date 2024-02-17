@@ -80,8 +80,7 @@ Powered by ChatGPT <a href="https://medium.com/@moebiussurfing/wip-prototype-cha
 
 <p>
 <h3>
-WIN_x64 apps binaries.<br/><br/>
-DOWNLOAD LINKS: from my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io profile</a>:
+DOWNLOAD LINKS. WIN_x64 apps binaries from my <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io profile</a>:
 </h3>
 </p>
 
