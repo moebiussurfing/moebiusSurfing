@@ -49,7 +49,7 @@ RETRO Mixed Reality decentralized music Events in Second Life Metaverse vs Real 
 • Paletto
 </h3>
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="40%" width="40%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/blob/main/Paletto_Thumbnail.png" align="center" height="45%" width="45%">
 </div>
 
 <b>A Colors Manager desktop app</b>.</br>
@@ -62,7 +62,7 @@ Powered by <a href="https://github.com/moebiussurfing/ofxColorManager" target="_
 • chatSURF
 </h3>
 <div align="left">
-<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="40%" width="40%">
+<img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/73b48179-d095-4d7f-8bd2-f8329b2167a0" align="center" height="55%" width="55%">
 </div>
 
 A Conversational Assistant, </br>for exploring artists and creators.</br>
