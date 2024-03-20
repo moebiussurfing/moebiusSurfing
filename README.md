@@ -4,9 +4,9 @@
 
 <br/>
 
-<h2>🔭 ( WIP ) COMING SOON!</h2>
-<h2>STAY TUNNED ON TWITCH</h2> 
-<h2>LIVE CODING SESSIONS AND EXPLORATION!</h2>  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing @ Twitch.tv</a></h2>  
+<h3>🔭 ( WIP ) COMING SOON!</h3>
+<h3>STAY TUNNED ON TWITCH</h3> 
+<h3>LIVE CODING SESSIONS AND EXPLORATION!</h3>  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing @ Twitch.tv</a></h2>  
   
 <br/><br/><br/>
 
