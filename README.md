@@ -4,10 +4,11 @@
 
 <br/>
 
-<h1>🔭 ( WIP ) COMING SOON ON TWITCH.TV</h1>
-<h1> STAY TUNNED FOR </h2>
-<h1> LIVE CODING SESSIONS!!</h2> -> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing@Twitch.tv</a>
-
+<h1>🔭 ( WIP ) COMING SOON!  
+STAY TUNNED ON TWITCH.TV  
+LIVE CODING SESSIONS!!</h2> -> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing@Twitch.tv</a>  
+</h1>
+  
 <br/><br/>
 
 <h1>WORKING / SKILLS / INTERESTS</h1>
