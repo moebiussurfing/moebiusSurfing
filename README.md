@@ -8,9 +8,7 @@
 <h2>STAY TUNNED ON TWITCH</h2> 
 <h2>LIVE CODING SESSIONS AND EXPLORATION!</h2>  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing @ Twitch.tv</a></h2>  
   
-<br/>
-------------
-<br/>
+<br/><br/><br/>
 
 <h1>WORKING / SKILLS / INTERESTS</h1>
 <br/>
