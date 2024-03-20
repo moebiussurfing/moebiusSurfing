@@ -4,6 +4,12 @@
 
 <br/>
 
+<h1>🔭 ( WIP ) COMING SOON</h1>
+<h2> STAY TUNNED!!</h2>
+href="https://www.twitch.tv/moebiussurfing" target="_blank">Twitch</a>
+
+<br/>
+
 <h1>WORKING / SKILLS / INTERESTS</h1>
 <br/>
 Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  DearImGui  |  UI <br/><br/>
@@ -159,6 +165,7 @@ Drop me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> @email</a>
 
 CURRENT ACTIVE PROJECTS: 
 <br/>
+
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
 
 <br/>
@@ -168,7 +175,8 @@ PROFILES:<br/>
 <a href="https://www.instagram.com/moebiusSurfing/" target="_blank">Instagram</a> | 
 <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
-<a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a>
+<a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
+<a href="https://www.twitch.tv/moebiussurfing" target="_blank">Twitch</a>
 </p>
 
 <details>
