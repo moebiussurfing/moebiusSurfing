@@ -5,10 +5,10 @@
 <br/>
 
 <h1>🔭 ( WIP ) COMING SOON</h1>
-<h2> STAY TUNNED!!</h2>
-href="https://www.twitch.tv/moebiussurfing" target="_blank">Twitch</a>
+<h2> STAY TUNNED FOR LIVE CODING SESSIONS!!</h2>
+<a hhref="https://www.twitch.tv/moebiussurfing" target="_blank">Twitch</a>
 
-<br/>
+<br/><br/>
 
 <h1>WORKING / SKILLS / INTERESTS</h1>
 <br/>
