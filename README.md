@@ -6,7 +6,7 @@
 
 <h2>🔭 ( WIP ) COMING SOON!</h2>
 <h2>STAY TUNNED ON TWITCH</h2> 
-<h2>LIVE CODING SESSIONS AND EXPLORATION!</h2> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing @ Twitch.tv</a></h2>  
+<h2>LIVE CODING SESSIONS AND EXPLORATION!</h2>  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">moebiusSurfing @ Twitch.tv</a></h2>  
   
 <br/><br/>
 
