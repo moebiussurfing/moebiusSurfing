@@ -4,11 +4,7 @@
 
 <br/>
 
-<h3>🔭 ( WIP ) COMING SOON!</h3>
-<h3>STAY TUNNED ON TWITCH</h3> 
-<h3>LIVE CODING SESSIONS AND EXPLORATION!</h3>  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">@Twitch.tv</a></h2>  
-  
-<br/><br/><br/>
+<br/><br/>
 
 <h1>WORKING / SKILLS / INTERESTS</h1>
 <br/>
@@ -203,3 +199,9 @@ _All my profile links and WIP projects._<br/>
 </details>
 
 <br/><br/>
+
+<h3>🔭 ( WIP ) COMING SOON!</h3>
+<h3>STAY TUNNED ON TWITCH</h3> 
+<h3>LIVE CODING SESSIONS AND EXPLORATION!</h3>  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <a href="https://www.twitch.tv/moebiussurfing" target="_blank">@Twitch.tv</a></h2>  
+  
+<br/>
