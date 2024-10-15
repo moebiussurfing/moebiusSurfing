@@ -119,11 +119,17 @@ The core code was deeply improved by [Roy Macdonald](https://github.com/roymacdo
 I did the <b>UI Frontend</b> side, re-design, and code integration.</br> 
 Uses my [ofxSurfingImGui @ GitHub](https://github.com/moebiussurfing/ofxSurfingImGui) library.<br/>
 A project by [LOLED Virtual @ Gumroad](https://loledvirtual.gumroad.com/l/realityfield).<br/>
+
 <br/>
 
 <div align="left">
 <img src="https://github.com/moebiussurfing/moebiusSurfing/assets/2106149/51da502c-624d-448a-8516-8466eba50251" align="center" height="70%" width="70%">
 </div>
+
+<div align="left">
+<img src="https://public-files.gumroad.com/bb5hk8fahnuiplbypfcnx87bzbsi" align="center" height="70%" width="70%">
+</div>
+
 <br/>
 
 <br/>
