@@ -22,7 +22,7 @@ Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with
 </br></br>
 <b>STARTED LEARN</b>
 </br>
-ComfyUI  •  Flux/Stable Diffusion  •  Unreal Engine
+ComfyUI  •  Flux / Stable Diffusion  •  Unreal Engine
 </br></br>
 <b>INTERESTED</b>
 </br>
@@ -113,7 +113,7 @@ DOWNLOAD WIN_x64 binaries from my <a href="https://moebiussurfing.itch.io/" targ
 • RealityField (2023)
 </h3>
 
-A <b>Virtual Production</b> oriented <b>tracking-software</b>/devices-hud for Windows and Unreal Engine.<br/>
+A <b>Virtual Production</b> oriented <b>tracking-software</b>/devices-hud for Windows and <b>Unreal Engine</b>.<br/>
 Original code created by [Andy Jarosz](https://github.com/MadlyFX) using [openFrameworks/C++](https://github.com/openframeworks/openFrameworks).</br>
 The core code was deeply improved by [Roy Macdonald](https://github.com/roymacdonald).<br/>
 I did the <b>UI Frontend</b> side, re-design, and code integration.</br> 
