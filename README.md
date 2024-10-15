@@ -23,8 +23,8 @@ Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with
 <b>STARTED LEARN</b>
 </br>
 ComfyUI  •  Flux/Stable Diffusion  •  Unreal Engine
-</br>
-<b>INTERESTED LEARN</b>
+</br></br>
+<b>INTERESTED</b>
 </br>
 Virtual Production  •  Houdini  •  React / ThreeJS / Electron
 </details>
