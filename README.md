@@ -20,10 +20,13 @@ Machine Learning / GPT Interactions  <br/>
 </br>
 Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with ofApp's  •  Electronics
 </br></br>
-<b>STARTING LEARN</b>
+<b>STARTED LEARN</b>
 </br>
-ComfyUI  •  Flux/Stable Diffusion  •  Unreal Engine  •  Virtual Production  •  Houdini  •  React / ThreeJS / Electron
-
+ComfyUI  •  Flux/Stable Diffusion  •  Unreal Engine
+</br>
+<b>INTERESTED LEARN</b>
+</br>
+Virtual Production  •  Houdini  •  React / ThreeJS / Electron
 </details>
 
 </br>
