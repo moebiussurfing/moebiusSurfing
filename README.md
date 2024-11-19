@@ -8,7 +8,7 @@
 <br/>
 Custom Creative Code Tools  |  Desktop Apps  |   openFrameworks  |  C++  |  DearImGui  |  UI <br/><br/>
 Realtime Video / Text / Render  |  Live Generated Content  |  Big Screens / Interactive Installations  <br/>
-Machine Learning / GPT Interactions  <br/>
+Machine Learning / LLM GPT Interactions  <br/>
 
 <br><br/>
   
@@ -22,7 +22,7 @@ Arduino • Espressif ESP8266 / ESP32 USB • WIFI / OSC bridge integration with
 </br></br>
 <b>STARTED LEARN</b>
 </br>
-ComfyUI  •  Flux / Stable Diffusion  •  Unreal Engine
+ComfyUI  •  Flux / Stable Diffusion  •  Unreal Engine  •  LLM models / Python
 </br></br>
 <b>INTERESTED</b>
 </br>
