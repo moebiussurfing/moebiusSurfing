@@ -154,7 +154,7 @@ Custom Prototype app for animated text layout installations.</br>
 <p>
 <strong> 
   <em>
-moebiusSurfing, 2024.
+moebiusSurfing, 2025.
   </em>
 <br/>
 ( ManuMolina )
@@ -166,7 +166,7 @@ Drop me an <a href="mailto:moebiussurfing@gmail.com" target="_blank"> @email</a>
 
 </p>
 
-CURRENT ACTIVE PROJECTS: 
+CURRENT ACTIVE/ARCHIVE PROJECTS: 
 <br/>
 
 <a href="https://linktr.ee/moebiussurfing" target="_blank">Linktree</a>
