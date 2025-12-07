@@ -179,7 +179,7 @@ PROFILES:<br/>
 <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
 <a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
-<a href="https://www.twitch.tv/moebiussurfing" target="_blank">Twitch</a>
+<a href="https://on.soundcloud.com/h7gAznCBFkTdKrhR8s" target="_blank">SoundCloud</a>
 </p>
 
 <details>
