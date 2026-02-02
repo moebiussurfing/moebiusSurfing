@@ -179,6 +179,7 @@ PROFILES:<br/>
 <a href="https://moebiussurfing.itch.io/" target="_blank">itch.io</a> | 
 <a href="https://www.youtube.com/moebiusSurfing" target="_blank">YouTube</a> | 
 <a href="https://twitter.com/moebiusSurfing/" target="_blank">Twitter</a> | 
+<a href="https://www.last.fm/user/manumolinaz" target="_blank">LastFM</a> | 
 <a href="https://on.soundcloud.com/h7gAznCBFkTdKrhR8s" target="_blank">SoundCloud</a>
 </p>
 
